@@ -5,11 +5,11 @@ module.exports = {
   ],
   theme: {
     fontSize: {
-      xs: 16,
-      sm: 18,
-      md: 20,
-      lg: 24,
-      xl: 32,
+      xs: 14,
+      sm: 16,
+      md: 18,
+      lg: 20,
+      xl: 28,
       '2xl': 36,
     },
 
@@ -29,7 +29,7 @@ module.exports = {
 
       cyan: {
         500: '#81d8f7',
-        300: '#9be1fb',
+        300: '#4be1fc',
       },
 
     },
